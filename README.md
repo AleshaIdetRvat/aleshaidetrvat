@@ -1,13 +1,6 @@
 ![Header](https://github.com/AleshaIdetRvat/aleshaidetrvat/blob/main/assets/headerForGitHubReadMe.gif)
 
-```html
-<person name='Alexey'>
-  <ul class='skills'>
-    <li class='skills__item' level='junior'>frontend engineer</li>
-    <li class='skills__item' level='beginner'>web-designer</li>
-  </ul>
-</person>
-```
+Hello everybody! I am a creative front-end developer
 
 ### Languages and Tools
 
