@@ -21,3 +21,7 @@ Fullstack developer
 ![](https://img.shields.io/badge/Nestjs-333333?style=flat&logo=Nestjs&logoWidth=18)
 ![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat&logo=MongoDB&logoWidth=18)
 ![Figma](https://img.shields.io/badge/Figma-333333?style=flat&logo=Figma&logoWidth=18)
+
+
+## Contacts
+https://www.linkedin.com/in/alex-abels-1905b322b/
