@@ -2,11 +2,6 @@
 
 Fullstack developer
 
-## Experience
-
-![image](https://github.com/AleshaIdetRvat/aleshaidetrvat/assets/81928578/4a4c282d-73dd-431b-96d1-753d3e6c3c4c)
-
-
 ## Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript&logoWidth=18)
